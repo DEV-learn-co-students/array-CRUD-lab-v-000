@@ -2,6 +2,10 @@
 
 ## Overview
 
+testing to see if auto deploy works
+
+<script>alert('Hello World')</script>
+
 In this lab, you will create arrays, add data to arrays, remove data from arrays and retrieve data from arrays.
 
 ## Objectives
